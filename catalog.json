@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "resources": [
+    {
+      "id": "choose-a-domain",
+      "title": "Choose a name and domain",
+      "url": "https://gtmpicks.com/skills/choose-a-domain/SKILL.md",
+      "description": "Brief an agent on naming strategy, verify registrar offers, and compare a shortlist against real conflicts.",
+      "category": "agents",
+      "format": "Skill"
+    },
+    {
+      "id": "product-hunt-launch-guide",
+      "title": "Product Hunt Launch Guide",
+      "url": "https://help.producthunt.com/en/collections/19793093-launch-guide",
+      "description": "Set a launch goal, choose a date, prepare the product page, and plan how to collect feedback during and after launch.",
+      "category": "gtm",
+      "format": "Guide"
+    },
+    {
+      "id": "show-hn-guidelines",
+      "title": "Show HN Guidelines",
+      "url": "https://news.ycombinator.com/showhn.html",
+      "description": "Check whether your project is ready for Show HN, prepare a demo people can try, and invite feedback from the community.",
+      "category": "gtm",
+      "format": "Guide"
+    },
+    {
+      "id": "product-positioning",
+      "title": "Product positioning templates",
+      "url": "https://www.shopify.com/blog/what-is-product-positioning",
+      "description": "Map competitors, choose a customer segment, and draft a positioning statement to test.",
+      "category": "gtm",
+      "format": "Guide"
+    },
+    {
+      "id": "google-search-spam-policies",
+      "title": "Google Search spam policies",
+      "url": "https://developers.google.com/search/docs/essentials/spam-policies",
+      "description": "Check a proposed content or link strategy for search policy violations before you invest in it.",
+      "category": "search",
+      "format": "Reference"
+    },
+    {
+      "id": "google-ai-features",
+      "title": "AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features",
+      "description": "Check your eligibility for AI Overviews and AI Mode and learn how their traffic is reported.",
+      "category": "search",
+      "format": "Documentation"
+    },
+    {
+      "id": "businesses-in-chatgpt",
+      "title": "Claim your business in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt/",
+      "description": "Check access to Business Hub, claim your business, and keep the details customers see in ChatGPT up to date.",
+      "category": "search",
+      "format": "Guide"
+    },
+    {
+      "id": "vercel-agent-skills-guide",
+      "title": "Create and share an agent skill",
+      "url": "https://vercel.com/kb/guide/agent-skills-creating-installing-and-sharing-reusable-agent-context",
+      "description": "Turn a repeated marketing workflow into a skill your agent can load when the task comes up.",
+      "category": "agents",
+      "format": "Guide"
+    },
+    {
+      "id": "product-hunt-mcp",
+      "title": "Product Hunt for AI assistants",
+      "url": "https://www.producthunt.com/mcp/install",
+      "description": "Connect Product Hunt to an assistant to compare recent launches and draft a listing for your own product.",
+      "category": "agents",
+      "format": "Tool"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+name: Suggest a resource
+description: Share a public resource that helps a solo founder do go-to-market work.
+title: "Resource suggestion: "
+body:
+  - type: markdown
+    attributes:
+      value: This issue is public. Share public links and a short description. Leave out personal information, private links, and account details.
+  - type: input
+    id: resource-url
+    attributes:
+      label: Public source URL
+      description: Use the original HTTPS link without tracking or referral parameters.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Go-to-market
+        - Search and AI visibility
+        - Agent skills and workflows
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: What does it help a solo founder do?
+      description: Name a specific task. Mention relevant costs, account requirements, or any affiliation.
+    validations:
+      required: true
