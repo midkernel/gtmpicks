@@ -10,6 +10,14 @@
       "format": "Skill"
     },
     {
+      "id": "dev-technical-walkthrough",
+      "title": "Publish a technical walkthrough on DEV",
+      "url": "https://dev.to/p/editor_guide",
+      "description": "Use Markdown, code examples, and relevant tags to publish a developer walkthrough, and set a canonical URL when cross-posting from your blog.",
+      "category": "gtm",
+      "format": "Guide"
+    },
+    {
       "id": "product-hunt-launch-guide",
       "title": "Product Hunt Launch Guide",
       "url": "https://help.producthunt.com/en/collections/19793093-launch-guide",
