@@ -72,6 +72,46 @@
       "description": "Connect Product Hunt to an assistant to compare recent launches and draft a listing for your own product.",
       "category": "agents",
       "format": "Tool"
+    },
+    {
+      "id": "buyer-language-testing-ground",
+      "title": "Build a buyer-language testing ground",
+      "url": "https://x.com/VibeMarketer_/status/2119516052946341946",
+      "description": "Collect discovery call transcripts, churn interviews, and community complaints in one file, add new objections weekly, and check every new hook, landing page, or offer against that language before it ships.",
+      "category": "gtm",
+      "format": "Post"
+    },
+    {
+      "id": "cold-email-list-check",
+      "title": "Check your cold email list before you send",
+      "url": "https://x.com/AshwiniNK21/status/2112409862433091657",
+      "description": "Read a sample of your list by hand, count the wrong fits, score the rest against a one-line ICP and an exclusion list, and send to the strongest tier first.",
+      "category": "gtm",
+      "format": "Article"
+    },
+    {
+      "id": "cold-email-rewrite-walkthrough",
+      "title": "Rewrite a cold email to be easier to answer",
+      "url": "https://x.com/AshwiniNK21/status/2117484730656665700",
+      "description": "Follow a before and after of one outbound email: lead with the reader's problem, ask a small question instead of sharing a video, and give each follow-up its own job.",
+      "category": "gtm",
+      "format": "Article"
+    },
+    {
+      "id": "get-recommended-by-chatgpt-checklist",
+      "title": "Checklist to get recommended by AI assistants",
+      "url": "https://x.com/suraj_sharma14/status/2122910168249962616",
+      "description": "Work through a list of site changes, from letting AI crawlers in to a public pricing page and comparison pages, then ask ChatGPT, Claude, and Perplexity monthly whether your product shows up.",
+      "category": "search",
+      "format": "Post"
+    },
+    {
+      "id": "product-hunt-launch-outreach",
+      "title": "Find prospects from Product Hunt launches",
+      "url": "https://x.com/fk_banks_/status/2117252469977665830",
+      "description": "Browse recent Product Hunt launches in your category, find the maker through their profile, and send a short congratulations email that offers one idea while the launch is fresh.",
+      "category": "gtm",
+      "format": "Post"
     }
   ]
 }
