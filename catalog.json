@@ -34,6 +34,14 @@
       "format": "Guide"
     },
     {
+      "id": "alternativeto-listing",
+      "title": "List an app on AlternativeTo",
+      "url": "https://alternativeto.net/faq/#add-a-new-application",
+      "description": "Use a verified account to prepare your app’s platforms, license, and description, then submit it for editorial review.",
+      "category": "gtm",
+      "format": "Guide"
+    },
+    {
       "id": "google-search-spam-policies",
       "title": "Google Search spam policies",
       "url": "https://developers.google.com/search/docs/essentials/spam-policies",
