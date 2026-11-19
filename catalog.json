@@ -112,6 +112,38 @@
       "description": "Browse recent Product Hunt launches in your category, find the maker through their profile, and send a short congratulations email that offers one idea while the launch is fresh.",
       "category": "gtm",
       "format": "Post"
+    },
+    {
+      "id": "first-customers-from-100-founder-interviews",
+      "title": "How 100 founders got their first customers",
+      "url": "https://x.com/AdityaUmale17/status/2122323319504715821",
+      "description": "Read notes from 100 founder interviews on where first customers came from, with concrete plays like asking your network for intros, targeted cold DMs, and showing your tool in use inside the communities where buyers already talk.",
+      "category": "gtm",
+      "format": "Article"
+    },
+    {
+      "id": "test-ideas-with-cold-email-variants",
+      "title": "Test several ideas with one cold email send",
+      "url": "https://x.com/doooyle/status/2121600986867257800",
+      "description": "Put up one page per idea, send each prospect a random cold email variant, link positive replies to the matching page, and build the idea that clearly outpulls the rest.",
+      "category": "gtm",
+      "format": "Post"
+    },
+    {
+      "id": "stack-distribution-channels",
+      "title": "Stack distribution channels one at a time",
+      "url": "https://x.com/WasimShips/status/2122570672647844131",
+      "description": "Follow how one SaaS added channels by stage, from founder-run outbound to community posts, content, partners, and then paid ads, measuring trials and revenue before adding the next channel and keeping the old ones running.",
+      "category": "gtm",
+      "format": "Post"
+    },
+    {
+      "id": "match-landing-page-to-ad",
+      "title": "Match your landing page to the ad",
+      "url": "https://x.com/ODLandingPages/status/2123020877398712624",
+      "description": "Check that the angle, promise, and offer on your landing page carry over from the ad people clicked, so visitors keep going instead of starting over.",
+      "category": "gtm",
+      "format": "Post"
     }
   ]
 }
