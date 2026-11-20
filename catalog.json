@@ -144,6 +144,30 @@
       "description": "Check that the angle, promise, and offer on your landing page carry over from the ad people clicked, so visitors keep going instead of starting over.",
       "category": "gtm",
       "format": "Post"
+    },
+    {
+      "id": "pick-channels-by-what-you-sell",
+      "title": "Pick first-customer channels by what you sell",
+      "url": "https://x.com/_Gxnji_/status/2123717993373024750",
+      "description": "Match your first channel to your product type, using patterns from 37 founder stories: direct outreach for B2B tools, money-page SEO for dev tools, short video for cheap consumer apps, and X or Reddit for founder tools.",
+      "category": "gtm",
+      "format": "Post"
+    },
+    {
+      "id": "small-creator-video-partnerships",
+      "title": "Get customers from small creators' short videos",
+      "url": "https://x.com/marstay77/status/2122673377236119555",
+      "description": "Ten lessons from a solo founder on paying small creators for short videos: pick audience fit over follower count, expect about one yes in 20, pay when the video is live, give each creator a discount code, and track paying customers.",
+      "category": "gtm",
+      "format": "Article"
+    },
+    {
+      "id": "treat-launches-as-a-channel",
+      "title": "Treat launches on X as a repeatable channel",
+      "url": "https://x.com/StevBuilds/status/2123415303988084854",
+      "description": "A small-team read of an agency's free 40-step X launch checklist: run launches in fixed slots, count small features and customer stories as launches, and give it six tries before judging the channel.",
+      "category": "gtm",
+      "format": "Article"
     }
   ]
 }
