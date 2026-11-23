@@ -192,6 +192,38 @@
       "description": "A small-team read of an agency's free 40-step X launch checklist: run launches in fixed slots, count small features and customer stories as launches, and give it six tries before judging the channel.",
       "category": "gtm",
       "format": "Article"
+    },
+    {
+      "id": "mine-competitor-complaints-for-copy",
+      "title": "Write copy from competitor complaints",
+      "url": "https://x.com/thejacobpegs/status/2124754741393588614",
+      "description": "Search Reddit, reviews, and comments for complaints about competitors, log 20 with what people said, what they want, and their current workaround, then reuse their exact words on your landing page and posts.",
+      "category": "gtm",
+      "format": "Article"
+    },
+    {
+      "id": "count-first-use-not-signups",
+      "title": "Count first use, not just signups",
+      "url": "https://x.com/bibhashroykol/status/2124198232029073613",
+      "description": "Run a 30-day pilot that tracks each signup through setup, first real use, and payment in one spreadsheet, backed by published waitlist cases where few signups went on to pay.",
+      "category": "gtm",
+      "format": "Article"
+    },
+    {
+      "id": "tally-ai-search-channel",
+      "title": "How Tally made AI search its top channel",
+      "url": "https://x.com/ElarisLabs/status/2123778398220857638",
+      "description": "See how a bootstrapped form builder got recommended by AI assistants: years of real answers on forums and Reddit, a page written for AI, asking every new user how they found it, and an MCP server.",
+      "category": "search",
+      "format": "Post"
+    },
+    {
+      "id": "pair-crowded-name-with-its-job",
+      "title": "Pair a crowded product name with its job",
+      "url": "https://x.com/JuliusRWash/status/2123506376433426447",
+      "description": "A founder's notes on never letting a common product name stand alone, so branded searches with the name plus the job became most Google clicks, while an MCP connector became the main signup path.",
+      "category": "search",
+      "format": "Article"
     }
   ]
 }
