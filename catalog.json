@@ -224,6 +224,38 @@
       "description": "A founder's notes on never letting a common product name stand alone, so branded searches with the name plus the job became most Google clicks, while an MCP connector became the main signup path.",
       "category": "search",
       "format": "Article"
+    },
+    {
+      "id": "two-saas-email-funnels",
+      "title": "Two email funnels every SaaS needs",
+      "url": "https://x.com/Anni_Maan/status/2124216283084595706",
+      "description": "Fill-in-the-brackets copy for two short email sequences, one that moves signups to paying and one that turns paying users into reviewers and referrers, triggered by what users do rather than the day.",
+      "category": "gtm",
+      "format": "Template"
+    },
+    {
+      "id": "founder-written-cold-email-test",
+      "title": "Test founder-written cold emails against your control",
+      "url": "https://x.com/THArrowOfApollo/status/2124297776305487893",
+      "description": "Have the founder write several rough cold email variants in their own voice, test them head to head against a short control with enough sends per variant, then combine the two winners.",
+      "category": "gtm",
+      "format": "Post"
+    },
+    {
+      "id": "launch-video-pain-first",
+      "title": "Breakdown of a pain-first launch video",
+      "url": "https://x.com/haroonlaunches/status/2125242673154138572",
+      "description": "A second-by-second teardown of a B2B launch video that spends almost half its runtime on the buyer's problem before showing the logo, one idea, quick benefits and a single ask.",
+      "category": "gtm",
+      "format": "Post"
+    },
+    {
+      "id": "single-channel-30-day-sprint",
+      "title": "Run a 30-day single-channel sprint",
+      "url": "https://x.com/itsscatto/status/2124877438710620632",
+      "description": "Pick one channel where buyers already talk about the problem, then work it daily for 30 days, starting with a week of listening and no pitching, instead of switching channels after a quiet week.",
+      "category": "gtm",
+      "format": "Article"
     }
   ]
 }
