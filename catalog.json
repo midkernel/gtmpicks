@@ -256,6 +256,30 @@
       "description": "Pick one channel where buyers already talk about the problem, then work it daily for 30 days, starting with a week of listening and no pitching, instead of switching channels after a quiet week.",
       "category": "gtm",
       "format": "Article"
+    },
+    {
+      "id": "rank-product-page-not-blog",
+      "title": "Get a product page ranking instead of a blog post",
+      "url": "https://x.com/gabrielamzallag/status/2124886492346487112",
+      "description": "An audit of a Brevo product page that loses its main keyword to the company's own comparison article, with a step-by-step plan that starts from search intent and positioning before touching the page.",
+      "category": "search",
+      "format": "Article"
+    },
+    {
+      "id": "agree-terms-before-a-pilot",
+      "title": "Agree price and success test before a SaaS pilot",
+      "url": "https://x.com/bibhashroykol/status/2125278639524905347",
+      "description": "Why free pilots rarely convert, and the six things to settle with a customer before a short paid pilot starts, including the price and a written definition of success, with a one-page form to copy.",
+      "category": "gtm",
+      "format": "Article"
+    },
+    {
+      "id": "outcome-in-the-title-content-loop",
+      "title": "Content loop that starts from what is trending",
+      "url": "https://x.com/qyphor/status/2125255157286125903",
+      "description": "A six-step breakdown of the content system the Postiz founder showed on video: start from a trending topic, pick repeatable formats, put the outcome in the title, then spread each piece across channels. Ends with a checklist.",
+      "category": "gtm",
+      "format": "Article"
     }
   ]
 }
