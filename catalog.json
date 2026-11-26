@@ -280,6 +280,38 @@
       "description": "A six-step breakdown of the content system the Postiz founder showed on video: start from a trending topic, pick repeatable formats, put the outcome in the title, then spread each piece across channels. Ends with a checklist.",
       "category": "gtm",
       "format": "Article"
+    },
+    {
+      "id": "track-ai-answers-weekly",
+      "title": "Track the same buyer questions in AI answers every week",
+      "url": "https://x.com/manchanda1007/status/2125945663821422837",
+      "description": "An agency founder on moving from referrals to AI search: most citations traced to Reddit threads and other people's listicles, and a fixed set of 15 to 20 buyer questions got checked weekly after one change helped Google AI Overviews but hurt ChatGPT.",
+      "category": "search",
+      "format": "Article"
+    },
+    {
+      "id": "keep-publishing-past-six-flat-weeks",
+      "title": "Why a new blog can look dead for six weeks",
+      "url": "https://x.com/StevBuilds/status/2125925098586529932",
+      "description": "A Search Console case study of a small app whose blog showed no change for six weeks, then grew from about 3 to about 15 Google clicks a day over 27 articles. Click rate stayed flat; the gain came from showing up for more questions.",
+      "category": "search",
+      "format": "Article"
+    },
+    {
+      "id": "watch-customers-do-the-work",
+      "title": "Six customer discovery lessons from Dalton and Michael",
+      "url": "https://x.com/faridaelchuzade/status/2124989982246879601",
+      "description": "A summary of a Dalton Caldwell and Michael Seibel talk on customer conversations: treat customers as experts on the problem, not order takers, watch them do routine tasks to spot workarounds they accept, and use AI to prepare before a visit.",
+      "category": "gtm",
+      "format": "Article"
+    },
+    {
+      "id": "open-product-hunt-launch-playbook",
+      "title": "Open Product Hunt launch playbook with agent skills",
+      "url": "https://x.com/giangptx/status/2125139227927265422",
+      "description": "After a quiet launch of his own, a founder studied winning Product Hunt launches and published the notes as an open GitHub repo with checklists, copy templates, and agent skills a coding agent can run from a folder.",
+      "category": "gtm",
+      "format": "Playbook"
     }
   ]
 }
