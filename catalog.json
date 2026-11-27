@@ -312,6 +312,38 @@
       "description": "After a quiet launch of his own, a founder studied winning Product Hunt launches and published the notes as an open GitHub repo with checklists, copy templates, and agent skills a coding agent can run from a folder.",
       "category": "gtm",
       "format": "Playbook"
+    },
+    {
+      "id": "four-line-founder-cold-email",
+      "title": "A four-line cold email system for reaching founders",
+      "url": "https://x.com/hridaykadam/status/2124409824817676559",
+      "description": "A founder who emailed 1,000 startup founders shares his system: build lists from the YC directory and public complaints, find the inbox they actually read, keep emails to four lines with one real number and an easy out, send finished work instead of a pitch, and follow up with new details.",
+      "category": "gtm",
+      "format": "Playbook"
+    },
+    {
+      "id": "founder-led-sales-early-stage",
+      "title": "Seven founder-led sales lessons for early-stage startups",
+      "url": "https://x.com/StackDhruv/status/2125996421904310559",
+      "description": "A growth lead's notes on founder-led sales: write to 30 prospects by hand before automating outbound, ask whether buyers already measure or pay to solve the problem, find who signs early, and judge outbound by win rate as well as reply rate.",
+      "category": "gtm",
+      "format": "Guide"
+    },
+    {
+      "id": "marketing-swipe-sites-with-ai",
+      "title": "Ten marketing swipe sites and a workflow to study them with AI",
+      "url": "https://x.com/sentient_agency/status/2126269936574362009",
+      "description": "A list of free reference sites for marketing ideas, including Marketing Examples, Really Good Emails, Landingfolio, Meta Ads Library and Google Ads Transparency Center, plus a short process for feeding examples to an AI model to find patterns before writing your own.",
+      "category": "gtm",
+      "format": "Reference"
+    },
+    {
+      "id": "thirty-founder-content-ideas",
+      "title": "Thirty content ideas for founder-led social posts",
+      "url": "https://x.com/leonabboud/status/2124594214755357066",
+      "description": "A list of 30 post ideas for founders building a personal brand, such as your origin story, first client, most expensive lesson, and who you will not work with, each with an example opening line to adapt.",
+      "category": "gtm",
+      "format": "Template"
     }
   ]
 }
